@@ -1,3 +1,7 @@
 # Game-Of-Life
 
-This programs implements of John Conway's popular "Game of Life". Developed CRC cards then applied  SOLID principles throughout the program. In addition, the factory pattern was used to create each cell for each position. 
+*This programs implements of John Conway's popular "Game of Life". 
+*Utilized SOLID programming 
+*Designed CRC cards to produce efficent project implementation
+*Instantiated the factory pattern to create cells 
+
